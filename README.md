@@ -1,1 +1,1 @@
-# Praktikum_Function_CodingBat-Rizqi-Wijaya
+# Praktikum_Function_CodingBat_Rizqi-Wijaya
